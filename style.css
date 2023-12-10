@@ -1,0 +1,53 @@
+
+.container-lg {
+    background-image: url(uixbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+.navbar-nav{
+    margin-left: 550px;
+}
+
+.top-button-1{
+    height: 55px;
+    border-radius: 10px;
+    background-color: #f1f50a;
+    width: auto;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    margin-right:20px ;
+}
+
+.top-button-2{
+    height: 55px;
+    border-radius: 10px;
+    background-color: #f1f50a;
+    width: auto;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    margin-right:20px ;
+}
+
+.top-button-3{
+    height: 55px;
+    border-radius: 10px;
+    background-color: #f1f50a;
+    width: auto;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.top-button-1:hover {
+    background-color: #0cf404;
+
+}
+.top-button-2:hover {
+    background-color: #0cf404;
+}
+.top-button-3:hover {
+    background-color: #0cf404;
+}
+
+
+
